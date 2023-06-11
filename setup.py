@@ -19,7 +19,7 @@ except FileNotFoundError:
 
 setup(
     name="finrl",
-    version="0.3.6",
+    version="100.0.0",
     include_package_data=True,
     author="Hongyang Yang, Xiaoyang Liu, Ming Zhu",
     author_email="hy2500@columbia.edu",
